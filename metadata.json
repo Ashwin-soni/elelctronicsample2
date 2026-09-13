@@ -1,0 +1,6 @@
+{
+  "name": "VoltCore Electronics Mart",
+  "description": "A premier electronic megastore and authorized tech mart showcasing top global brands, consumer electronics, branch store locator, and corporate tech solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
